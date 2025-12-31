@@ -34,7 +34,7 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 1. Clona el repositorio:
 
 ```bash
-git clone <url-del-repositorio>
+git clone <https://github.com/DaCazo15/consulta-climatica.git>
 cd consulta-climatica
 ```
 
@@ -87,7 +87,7 @@ npm run build
 
 ## ✍️ Autores <a name = "autores"></a>
 
-- **Tu Nombre** - Trabajo inicial
+- [@DaCazo15](https://github.com/DaCazo15) - Desarrollo inicial
 
 ## 🎉 Agradecimientos <a name = "agradecimientos"></a>
 
