@@ -1,0 +1,15 @@
+export const paises = [
+    { codigo: 'US', nombre: 'Estados Unidos' },
+    { codigo: 'MX', nombre: 'México' },
+    { codigo: 'AR', nombre: 'Argentina' },
+    { codigo: 'CO', nombre: 'Colombia' },
+    { codigo: 'ES', nombre: 'España' },
+    { codigo: 'PE', nombre: 'Perú' },
+    { codigo: 'UY', nombre: 'Uruguay' },
+    { codigo: 'CL', nombre: 'Chile' },
+    { codigo: 'PA', nombre: 'Panamá' },
+    { codigo: 'VE', nombre: 'Venezuela' },
+    { codigo: 'BO', nombre: 'Bolivia' },
+    { codigo: 'EC', nombre: 'Ecuador' },
+    { codigo: 'BR', nombre: 'Brasil' },
+]
