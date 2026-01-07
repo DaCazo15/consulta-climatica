@@ -1,7 +1,7 @@
 <p align="center">
-  <img width=200px height=200px src="./public/logo.png" alt="Project logo">
+  <img width=200px height=200px src="https://i.postimg.cc/nzYMB274/Climadex.png" alt="Project logo">
 </p>
-<h1 align="center">Consulta Climatica</h1>
+<h1 align="center">Climadex</h1>
 <p align="left"> Una aplicación Vue.js para consultar el clima. Ingresa el nombre de una ciudad para obtener información meteorológica actual, incluyendo temperatura, condiciones y más.
     <br>
 </p>
